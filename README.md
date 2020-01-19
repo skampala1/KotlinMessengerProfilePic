@@ -5,4 +5,4 @@ This is the code for chat app using Kotlin with profile picture [media sharing] 
 Software needed for running this app: **Android Studio**
 
 
-![Final output](https://github.com/skampala1/KotlinMessengerProfilePic/blob/master/Screen%20Shot%202020-01-19%20at%2012.45.42%20PM.jpg = 250 x 250)
+![Final output](https://github.com/skampala1/KotlinMessengerProfilePic/blob/master/Screen%20Shot%202020-01-19%20at%2012.45.42%20PM.jpg){:height="50%" width="50%"}
